@@ -1,2 +1,2 @@
 # graph
-Different graph algorithms
+Different graph algorithms which will help you
